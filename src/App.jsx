@@ -34,19 +34,19 @@ function App() {
 
           <main className="mt-8 w-full px-4 max-w-md">
             <a
-              href="https://www.instagram.com/zid.adr"
+              href="https://www.instagram.com/zid.adr" target="_blank"
               className="block w-full text-center bg-blue-500 hover:bg-blue-600 text-white py-3 rounded-lg mb-4 shadow-md transition-all"
             >
               Instagram
             </a>
             <a
-              href="https://github.com/M12Zidan"
+              href="https://github.com/M12Zidan" target="_blank"
               className="block w-full text-center bg-green-500 hover:bg-green-600 text-white py-3 rounded-lg mb-4 shadow-md transition-all"
             >
               Github
             </a>
             <a
-              href="https://www.linkedin.com/in/maulana-zidan-780251209"
+              href="https://www.linkedin.com/in/maulana-zidan-780251209" target="_blank"
               className="block w-full text-center bg-purple-500 hover:bg-purple-600 text-white py-3 rounded-lg mb-4 shadow-md transition-all"
             >
               Linked In
